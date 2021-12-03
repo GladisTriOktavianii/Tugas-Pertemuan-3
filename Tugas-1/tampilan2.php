@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="MUHAMMAD ADRIAN REYESTA XI-RPL2" content="tampilan2">
+    <meta name="GLADIS TRI OKTAVIANI XI-RPL2" content="tampilan2">
     <title>tampilan2</title>
   </head>
   <body>
